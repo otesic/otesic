@@ -37,12 +37,15 @@
 <img alt = "node.js" height="8" src="https://img.icons8.com/material-two-tone/512/comma.png">
 <code><img alt = "React" height="20" src="https://img.icons8.com/dusk/512/react.png"> React</code>
 <img alt = "node.js" height="8" src="https://img.icons8.com/material-two-tone/512/comma.png">
+  <code><img alt = "Next" height="20" src="https://w7.pngwing.com/pngs/87/586/png-transparent-next-js-hd-logo.png"> Next</code>
+<img alt = "node.js" height="8" src="https://img.icons8.com/material-two-tone/512/comma.png">
 <code><img alt = "Redux" height="20" src="https://img.icons8.com/color/512/redux.png"> Redux</code>
 <img alt = "node.js" height="8" src="https://img.icons8.com/material-two-tone/512/comma.png">
 <code><img alt = "node.js" height="20" src="https://img.icons8.com/fluency/512/node-js.png"> Node Express</code>
 <img alt = "node.js" height="10" src="https://img.icons8.com/emoji/512/plus-emoji.png">
 <code><img alt = "node.js" height="20" src="https://img.icons8.com/ultraviolet/512/students.png"> ...studing</code>
 
+ 
 </div>
 
 ---
